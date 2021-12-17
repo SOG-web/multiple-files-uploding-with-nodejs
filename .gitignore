@@ -77,3 +77,6 @@ typings/
 
 #uploads
 uploads/
+
+#others
+.idea
