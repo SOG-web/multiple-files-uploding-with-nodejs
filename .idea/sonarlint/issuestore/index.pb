@@ -1,0 +1,29 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+<
+package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
+I
+views/partials/header.hbs,2\7\27bd965577bf2687ca2d90453c5552a760e5e959
+I
+views/partials/footer.hbs,0\3\03d7d1a7a324741d9784ecb0a513cc06c6dd8184
+>
+views/main.hbs,1\9\1906ed88c20b36e2628d5f4740af770e3fc4d2ab
+6
+app.js,4\a\4a68969ef8e858229267b842dedf42ab5dde4d50
+K
+server/middleware/multer.js,d\c\dc55bd435529daf3085ec313c943cff5eddd28cc
+K
+server/database/database.js,4\4\446cf52e2f9202f9b1796e798de9145ee1f9c578
+9
+	config.js,1\6\1677f29b39bf4fb465d7689c0b6b95fc646fcdbc
+D
+public/css/style.css,1\e\1ef0e38ec90181a17549647e1a67072ac5d804da
+F
+server/model/schema.js,7\d\7dcdb52efd9893b944fa2b4fe2f3db21e6437780
+H
+views/partials/index.hbs,9\0\90b9cce8c3cf82a768cefa6f087d126987828162
+P
+ server/controllers/controller.js,b\f\bf7123efea4037321801ab4351599e80d416967d
+G
+server/routes/routes.js,6\d\6d12f5cd250e63aa002dcdd822875509eaab310e
